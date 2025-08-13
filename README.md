@@ -1,6 +1,17 @@
 #daoep
 data curiousity club
 
+724193
 
 light
-knowledge lgh
+
+
+
+
+dark
+
+
+
+light vs. darkmxed
+
+light (remix album)  kdark (realbumlum)
