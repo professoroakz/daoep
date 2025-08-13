@@ -1,19 +1,8 @@
 #daoep
 data curiousity club
 
-724193
+A(aoe)
 
-light
-
-
-
-
-dark
-
-
-
-light vs. darkmxed
-
-light (remix album)  kdark (realbumlum)
-
-A E % modoep
+EPs
+Extendededmix album(s)
+Instrumentals + Extended
