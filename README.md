@@ -3,6 +3,8 @@ data curiousity club
 
 A(aoe)
 
-EPs
-Extendededmix album(s)
-Instrumentals + Extended
+
++maxed out
++release style
++gen as if official release of aoeeA(aoe)
+A(things)
