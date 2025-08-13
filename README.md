@@ -18,6 +18,7 @@ A(aoe)
 +include (all)
 +research (all)
 +generate (all)
++tools
 
 +gen as if official release of music (as oktay would do it)
 
@@ -25,3 +26,6 @@ A(aoe)
 A(things)
 
 
+for handling data business: lambdas, maps, etc
+
++unlocking/access/identity/owning/being
